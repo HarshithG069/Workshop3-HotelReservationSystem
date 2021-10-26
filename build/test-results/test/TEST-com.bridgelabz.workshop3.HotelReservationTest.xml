@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.workshop3.HotelReservationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-10-26T03:34:17" hostname="BABY" time="0.047">
+  <properties/>
+  <testcase name="toFindTheCheapestHotel_OnWeekdayAndWeekend()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.029"/>
+  <testcase name="whenAddedHotel_ShouldReturn_AddedHotel()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.004"/>
+  <testcase name="toAddWeekdayWeekendForRewardCustomer()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.001"/>
+  <testcase name="toFindTheChepeastHotel()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.006"/>
+  <testcase name="toFindTheBestRatedHotel_OnWeekdayAndWeekend()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.001"/>
+  <testcase name="toFindTheCheapestBestRatedHotel_OnWeekdayAndWeekend()" classname="com.bridgelabz.workshop3.HotelReservationTest" time="0.001"/>
+  <system-out><![CDATA[The cheapest Hotel is 220
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
